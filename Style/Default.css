@@ -1,0 +1,11 @@
+﻿/* 레이아웃 */
+.SkyMenu {border-bottom: 1px solid #d2d2d2; background-color: #fff;}
+.header {background-color: rgb(255, 255, 255); border-bottom: 1px solid #d2d2d2; box-shadow: 0 5px 15px rgba(255, 255, 255, 0.5); padding: 24px;}
+.header h1.logo {display: flex; align-items: center; margin-right: 22px !important;}
+.header h1.logo a {font-size: 1rem; font-weight: 700; color: #333 !important;}
+.header .gnb {display: flex; align-items: center;}
+.header .gnb li {float: left;}
+.header .gnb li:after {content: ''; display: inline-block; width: 1px; height: 12px; background-color: #ddd; vertical-align: middle; margin: 0 12px;}
+.header .gnb li:last-of-type:after {content: none;}
+.header .gnb li a {font-weight: 350;}
+.header .LoginBox .btn {font-size: 1rem;}
