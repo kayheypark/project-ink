@@ -9,3 +9,10 @@
 .header .gnb li:last-of-type:after {content: none;}
 .header .gnb li a {font-weight: 350;}
 .header .LoginBox .btn {font-size: 1rem;}
+
+.footer {color: #e6e6e6;}
+.footer {background-color: #2b2b42; border-top: 1px solid #d2d2d2; border-bottom: 1px solid #d2d2d2; box-shadow: 0 -5px 15px rgba(255, 255, 255, 0.5); padding: 24px;}
+.footer .Information {color: #e6e6e6;}
+.footer .SnsBox {color: #e6e6e6; font-size: 1.25rem;}
+.footer .SnsBox ul li {float: left; margin-right: 8px;}
+.footer .SnsBox ul li a {color: #e6e6e6;}

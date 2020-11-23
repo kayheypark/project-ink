@@ -16,7 +16,7 @@
     <div class="container-fluid">
         <div class="_container">
             <div class="row">
-                <div class="col-6">
+                <div class="col-6 d-flex">
                     <h1 class="logo"><a href="/"><img src="/Content/img/logo.png" height="24" alt="로고"></a></h1>
                     <nav class="gnb">
                         <ul>
@@ -27,7 +27,7 @@
                         </ul>
                     </nav>
                 </div>
-                <div class="col-6 justify-content-end">
+                <div class="col-6 d-flex justify-content-end align-items-center">
                     <div class="LoginBox">
                         <div class="row">
                             <div class="col-12">

@@ -11,8 +11,10 @@
 <main>
     <div class="container-fluid">
         <div class="container">
-            컨텐츠
-        </div>
+            <div style="height:752px;">
+                (컨텐츠)
+            </div>
+    </div>
     </div>
 </main>
 <?php include $_SERVER['DOCUMENT_ROOT'].'/Views/Layout/Footer.php'; ?>

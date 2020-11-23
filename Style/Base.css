@@ -38,15 +38,15 @@
 html {font-size: 12.8px;}
 html * {font-family: 'NotoSansKr'; font-weight: 100;}
 
-a {font-weight: 350; color: #666 !important;}
-a:hover {text-decoration: none !important; color: #333 !important;}
+a {font-weight: 350; color: #666;}
+a:hover {text-decoration: none; color: #222;}
 
 
 /* 초기화 */
 body {margin: 0;}
-ul, ol, dl {list-style: none !important; margin: 0 !important; padding: 0 !important;}
-h1, h2, h3, h4, h5, h6 {margin: 0 !important;}
-.row > * {display: flex; align-items: center;}
+ul, ol, dl {list-style: none; margin: 0; padding: 0;}
+h1, h2, h3, h4, h5, h6 {margin: 0;}
+._row > * {display: flex; align-items: center;}
 
 /* 툴 */
 .hover-underline:hover {text-decoration: underline;}
