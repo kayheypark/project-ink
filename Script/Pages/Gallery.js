@@ -1,6 +1,6 @@
 ﻿function fnPageInit() {
   var swiper = new Swiper('.swiper-container', {
-    slidesPerView: 4,
+    slidesPerView: 5,
     mousewheel: true,
     centeredSlides: false,
     spaceBetween: 30,
