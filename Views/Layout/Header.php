@@ -31,7 +31,7 @@
                     <div class="LoginBox">
                         <div class="row">
                             <div class="col-12">
-                                <a href="#">로그인 · 회원가입</a>
+                                <a href="/Views/Account/Regist/Step1.php">로그인 · 회원가입</a>
                             </div>
                         </div>
                     </div>
