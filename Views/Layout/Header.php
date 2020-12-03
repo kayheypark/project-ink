@@ -22,7 +22,7 @@
                         <ul>
                             <li><a href="#">타투 올리기</a></li>
                             <li><a href="#">타투 찾기</a></li>
-                            <li><a href="#">갤러리</a></li>
+                            <li><a href="/Views/Gallery">갤러리</a></li>
                             <div class="clearfix"></div>
                         </ul>
                     </nav>
