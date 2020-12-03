@@ -35,9 +35,66 @@
                     <div class="col-12">
                         <div class="row">
                             <div class="col-12">
-                                
+                                <!-- Swiper -->
+                                <div class="swiper-container">
+                                    <div class="swiper-wrapper">
+                                        <div class="swiper-slide">
+                                            <div class="crop crop-500">
+                                                <img src="/Content/img/gallery/tatto1.jpg" class="w-100" alt="타투">
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <div class="crop crop-500">
+                                                <img src="/Content/img/gallery/tatto2.jpg" class="w-100" alt="타투">
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <div class="crop crop-500">
+                                                <img src="/Content/img/gallery/tatto3.jpg" class="w-100" alt="타투">
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <div class="crop crop-500">
+                                                <img src="/Content/img/gallery/tatto4.jpg" class="w-100" alt="타투">
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <div class="crop crop-500">
+                                                <img src="/Content/img/gallery/tatto5.jpg" class="w-100" alt="타투">
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <div class="crop crop-500">
+                                                <img src="/Content/img/gallery/tatto1.jpg" class="w-100" alt="타투">
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <div class="crop crop-500">
+                                                <img src="/Content/img/gallery/tatto2.jpg" class="w-100" alt="타투">
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <div class="crop crop-500">
+                                                <img src="/Content/img/gallery/tatto3.jpg" class="w-100" alt="타투">
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <div class="crop crop-500">
+                                                <img src="/Content/img/gallery/tatto4.jpg" class="w-100" alt="타투">
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <div class="crop crop-500">
+                                                <img src="/Content/img/gallery/tatto5.jpg" class="w-100" alt="타투">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Add Scrollbar -->
+                                    <div class="swiper-scrollbar"></div>
+                                </div>
+
                             </div>
-                        </div> 
+                        </div>
                     </div>
                 </div>
             </div>
@@ -48,7 +105,7 @@
     <?php include $_SERVER['DOCUMENT_ROOT'].'/Views/Layout/Script.php'; ?>
     <script src="/Script/Pages/Gallery.js"></script>
     <script>
-    fnPageInit();
+        fnPageInit();
     </script>
 </body>
 

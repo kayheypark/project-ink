@@ -1,13 +1,11 @@
 ﻿function fnPageInit() {
-  //Initialize Swiper
   var swiper = new Swiper('.swiper-container', {
     slidesPerView: 4,
-    centeredSlides: true,
+    centeredSlides: false,
     spaceBetween: 30,
-    grabCursor: true,
-    pagination: {
-      el: '.swiper-pagination',
-      clickable: true,
+    scrollbar: {
+      el: '.swiper-scrollbar',
+      hide: true,
     },
   });
 }

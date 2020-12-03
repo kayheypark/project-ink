@@ -51,3 +51,5 @@ em {font-style: normal;}
 
 /* 툴 */
 .hover-underline:hover {text-decoration: underline;}
+.crop {overflow: hidden;}
+.crop.crop-500 {width: 250px; height: 250px;}
